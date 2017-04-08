@@ -2,9 +2,9 @@
 
 ## How to use
 
-it has already implemented a fundamental method so you only write the code in following two method: **init and render**
+it has already implemented a fundamental method so you only write the code in following two method: **init and render**.
 
-**init method ** is called only once when complete to load a page. **render** is called every frame so you implement anything you want to render.
+**init method** is called only once when complete to load a page. **render** is called every frame so you implement anything you want to render.
 
 
 ```js
