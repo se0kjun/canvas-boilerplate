@@ -1,0 +1,17 @@
+body {
+    background-color: #f7f7f7;
+}
+
+.canvas-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#canvas_context {
+    border:3px solid black;
+    background-color:white;
+}
+
+.title h1 {
+    text-align: center;
+}
